@@ -5,53 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45354d42-5bb0-433d-b3be-bb3eb013ad53" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/build/classes/java/main/php/gdx/backends/lwjgl/GdxBackendsLwjglExtension.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/build/classes/java/main/php/gdx/backends/lwjgl/UXLwjglApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/build/classes/java/main/php/gdx/backends/lwjgl/UXLwjglApplicationConfiguration$WrappedInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/build/classes/java/main/php/gdx/backends/lwjgl/UXLwjglApplicationConfiguration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/build/resources/main/META-INF/services/php.runtime.ext.support.Extension" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-gdx-1.9.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-gdx-backend-lwjgl-1.9.14.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-jinput-2.0.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-jinput-platform-2.0.5-natives-linux.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-jinput-platform-2.0.5-natives-osx.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-jinput-platform-2.0.5-natives-windows.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-jlayer-1.0.1-gdx.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-jorbis-0.0.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-jphp-gdx-backend-lwjgl-ext-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-jutils-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-lwjgl-2.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-lwjgl-platform-2.9.3-natives-linux.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-lwjgl-platform-2.9.3-natives-osx.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-lwjgl-platform-2.9.3-natives-windows.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/jars/x-lwjgl_util-2.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/php/gdx/GdxExtension.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/php/gdx/GdxExtension.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jars/x-jphp-gdx-ext-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jars/x-jphp-gdx-ext-1.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/jars/x-jphp-gdx-platform-natives-desktop-ext-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-platform-natives-desktop-ext/jars/x-jphp-gdx-platform-natives-desktop-ext-1.0.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../package.build.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../package.build.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618597520199</updated>
-      <workItem from="1618597521658" duration="1020000" />
+      <workItem from="1618597521658" duration="1135000" />
     </task>
     <servers />
   </component>
