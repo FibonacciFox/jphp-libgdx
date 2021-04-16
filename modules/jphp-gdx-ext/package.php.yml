@@ -1,0 +1,14 @@
+name: jphp-gdx-ext
+version: 1.0.0
+description: libgdx jppm package
+plugins:
+  - Gradle
+  - Hub
+deps:
+  jphp-runtime: '*'
+gdx:
+  version: 1.9.14
+gradle:
+  providedDeps: ''
+  deps:
+    - 'com.badlogicgames.gdx:gdx:%gdx.version%'

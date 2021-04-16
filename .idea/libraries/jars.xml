@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-json-ext/jars/gson-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-json-ext/jars/jphp-json-ext-0.9.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

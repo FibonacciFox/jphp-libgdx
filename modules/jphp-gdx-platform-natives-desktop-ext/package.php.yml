@@ -1,0 +1,12 @@
+name: jphp-gdx-platform-natives-desktop-ext
+version: 1.0.0
+description: libgdx jppm package
+plugins:
+- Gradle
+deps:
+gdx:
+  version: 1.9.14
+gradle:
+  providedDeps: ''
+  deps:
+    - 'com.badlogicgames.gdx:gdx-platform:%gdx.version%:natives-desktop'

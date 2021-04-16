@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jars2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-core/jars/asm-util-7.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-core/jars/asm-analysis-7.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-core/jars/asm-commons-7.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-core/jars/asm-tree-7.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-core/jars/asm-7.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-core/jars/jphp-core-0.9.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

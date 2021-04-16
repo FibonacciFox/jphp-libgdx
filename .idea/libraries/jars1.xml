@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jars1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-yaml-ext/jars/snakeyaml-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-yaml-ext/jars/snakeyaml-1.25.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vendor/jphp-yaml-ext/jars/jphp-yaml-ext-0.9.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

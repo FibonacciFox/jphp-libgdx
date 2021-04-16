@@ -1,0 +1,18 @@
+name: jphp-libgdx-ext
+vestion: 1.0.0
+type: project
+
+deps:
+  jphp-core: '*'
+  jphp-zend-ext: '*'
+  jphp-yaml-ext: '*'
+
+hub:
+  login: shamanwolfrus@gmail.com
+
+gdx:
+  version: 1.9.14 #Версия libgdx для компиляуии
+
+modules: #пакеты jppm libgdx для компиляуии
+  - jphp-gdx-ext
+
