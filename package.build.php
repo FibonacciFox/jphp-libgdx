@@ -152,3 +152,35 @@ function task_libgdxInstall(Event $event)
         }
     }
 }
+
+
+/**
+ * @jppm-task libgdx:unpublish
+ * @param Event $event
+ */
+function task_libgdxUnpublish(Event $event)
+{
+    foreach ($event->package()->getAny('modules', []) as $i => $module) {
+        try{
+            Tasks::runExternal("./modules/$module", 'unpublish', ...$event->flags());
+        } catch (IOException $ex){
+            Console::log(Colors::withColor('(info)','red')." The $module package does not exist.");
+        }
+    }
+}
+
+
+/**
+ * @jppm-task libgdx:publish
+ * @param Event $event
+ */
+function task_libgdxPublish(Event $event)
+{
+    foreach ($event->package()->getAny('modules', []) as $i => $module) {
+        try{
+            Tasks::runExternal("./modules/$module", 'publish', ...$event->flags());
+        } catch (IOException $ex){
+            Console::log(Colors::withColor('(info)','red')." The $module package does not exist.");
+        }
+    }
+}

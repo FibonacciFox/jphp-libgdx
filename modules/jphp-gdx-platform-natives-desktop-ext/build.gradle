@@ -26,7 +26,8 @@ configurations { provided }
 sourceSets { main { compileClasspath += configurations.provided } }
 
 dependencies {
-
+  provided files('jars/x-gdx-platform-1.9.14-natives-desktop.jar')
+  provided files('jars/x-jphp-gdx-platform-natives-desktop-ext-1.0.0.jar')
 
   compile 'com.badlogicgames.gdx:gdx-platform:1.9.14:natives-desktop'
 }
