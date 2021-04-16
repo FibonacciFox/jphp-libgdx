@@ -10,7 +10,6 @@ use php\io\IOException;
 use php\lib\fs;
 use php\lib\arr;
 
-
 /**
  * @jppm-description initialize new package libgdx
  * @jppm-task libgdx:init
