@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45354d42-5bb0-433d-b3be-bb3eb013ad53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

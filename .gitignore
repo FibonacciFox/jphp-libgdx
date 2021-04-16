@@ -1,1 +1,10 @@
 /.idea/
+/modules/jphp-gdx-backend-lwjgl-ext/.gradle/
+/modules/jphp-gdx-backend-lwjgl-ext/.idea/
+/modules/jphp-gdx-backend-lwjgl-ext/gradle/
+/modules/jphp-gdx-backend-lwjgl-ext/jars/
+/modules/jphp-gdx-backend-lwjgl-ext/vendor/
+/modules/jphp-gdx-backend-lwjgl-ext/build.gradle
+/modules/jphp-gdx-backend-lwjgl-ext/gradlew
+/modules/jphp-gdx-backend-lwjgl-ext/gradlew.bat
+/modules/jphp-gdx-backend-lwjgl-ext/package-lock.php.yml

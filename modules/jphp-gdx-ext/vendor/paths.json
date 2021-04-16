@@ -1,9 +1,0 @@
-{
-  "classPaths": {
-    "": [
-      "/jphp-runtime/jars/jphp-runtime-1.0.3.jar"
-    ]
-  },
-  "includes": [],
-  "plugins": []
-}
