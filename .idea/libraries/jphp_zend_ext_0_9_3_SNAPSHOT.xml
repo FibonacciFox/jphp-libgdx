@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jphp-zend-ext-0.9.3-SNAPSHOT">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/vendor/jphp-zend-ext/jars/jphp-zend-ext-0.9.3-SNAPSHOT.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
