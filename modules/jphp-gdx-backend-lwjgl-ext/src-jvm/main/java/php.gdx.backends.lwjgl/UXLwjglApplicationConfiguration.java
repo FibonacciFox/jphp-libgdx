@@ -20,6 +20,7 @@ public class UXLwjglApplicationConfiguration extends BaseWrapper<LwjglApplicatio
         super(env, clazz);
     }
 
+
     @Reflection.Signature
     public void __construct() {
         __wrappedObject = new LwjglApplicationConfiguration();
@@ -29,6 +30,7 @@ public class UXLwjglApplicationConfiguration extends BaseWrapper<LwjglApplicatio
 
     }
 
+    /** title of application **/
     @Reflection.Getter("title")
     private Memory getTitle() {
         return StringMemory.valueOf(getWrappedObject().title);

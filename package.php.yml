@@ -9,10 +9,11 @@ deps:
 
 hub:
   login: shamanwolfrus@gmail.com
-
 gdx:
   version: 1.9.14 #Версия libgdx для компиляуии
 
 modules: #пакеты jppm libgdx для компиляуии
   - jphp-gdx-ext
+  - jphp-gdx-backend-lwjgl-ext
+  - jphp-gdx-platform-natives-desktop-ext
 

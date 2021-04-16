@@ -18,9 +18,6 @@ public class GdxExtension extends Extension {
     @Override
     public void onRegister(CompileScope scope) {
         registerClass(scope, ApplicationAdapter.class);
-        //registerWrapperClass(scope, LwjglApplication.class, UXLwjglApplication.class);
-        //registerWrapperClass(scope, LwjglApplicationConfiguration.class, UXLwjglApplicationConfiguration.class);
-
     }
 
 

@@ -2,7 +2,11 @@
 
 namespace gdx;
 
-
+/**
+ * Class ApplicationAdapter
+ *
+ * @package gdx
+ */
 abstract class ApplicationAdapter
 {
     /** Called when the {@link Application} is first created. */
