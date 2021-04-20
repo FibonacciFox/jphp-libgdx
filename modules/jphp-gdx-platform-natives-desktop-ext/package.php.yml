@@ -2,9 +2,22 @@ name: jphp-gdx-platform-natives-desktop-ext
 version: 1.0.0
 description: jphp-gdx-platform-natives-desktop-ext
 plugins:
-- Gradle
+  - Gradle
 gdx:
   version: 1.9.14
+
+config:
+  ignore:
+    - /.gradle/**
+    - /.git/**
+    - /gradle/**
+    - /build/**
+    - /bundle/**
+    - /docs/**
+    - /build/**
+    - /package-lock.php.yml
+    - /package.hub.yml
+
 gradle:
   deps:
     - 'com.badlogicgames.gdx:gdx-platform:%gdx.version%:natives-desktop'

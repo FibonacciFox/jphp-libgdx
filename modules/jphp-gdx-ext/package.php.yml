@@ -8,6 +8,19 @@ deps:
   jphp-runtime: '*'
 gdx:
   version: 1.9.14
+
+config:
+  ignore:
+    - /.gradle/**
+    - /.git/**
+    - /gradle/**
+    - /build/**
+    - /bundle/**
+    - /docs/**
+    - /build/**
+    - /package-lock.php.yml
+    - /package.hub.yml
+
 gradle:
   providedDeps: ''
   deps:
