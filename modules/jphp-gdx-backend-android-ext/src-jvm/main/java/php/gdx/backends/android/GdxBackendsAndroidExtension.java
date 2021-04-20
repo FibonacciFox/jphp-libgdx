@@ -1,5 +1,6 @@
 package php.gdx.backends.android;
 
+import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
 import php.runtime.env.CompileScope;
 import php.runtime.ext.support.Extension;
@@ -21,6 +22,7 @@ public class GdxBackendsAndroidExtension extends Extension {
     @Override
     public void onRegister(CompileScope scope) {
         registerWrapperClass(scope, AndroidApplicationConfiguration.class, UXAndroidApplicationConfiguration.class);
+        registerClass(scope, ApplicationAdapter.class);
     }
 
 
