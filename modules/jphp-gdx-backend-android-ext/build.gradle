@@ -28,6 +28,9 @@ sourceSets { main { compileClasspath += configurations.provided } }
 
 dependencies {
   provided 'com.google.android:android:4.1.1.4'
+  provided files('jars/x-gdx-1.9.14.jar')
+  provided files('jars/x-gdx-backend-android-1.9.14.jar')
+  provided files('jars/x-jphp-gdx-backend-android-ext-1.0.0.jar')
   provided files('vendor/jphp-runtime/jars/jphp-runtime-1.0.3.jar')
 
   compile 'com.badlogicgames.gdx:gdx-backend-android:1.9.14'
