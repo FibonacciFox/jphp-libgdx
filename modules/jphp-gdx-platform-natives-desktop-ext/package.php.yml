@@ -3,6 +3,7 @@ version: 1.0.0
 description: jphp-gdx-platform-natives-desktop-ext
 plugins:
   - Gradle
+  - Hub
 gdx:
   version: 1.9.14
 

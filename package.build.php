@@ -162,7 +162,7 @@ function task_libgdxUnpublish(Event $event)
 {
     foreach ($event->package()->getAny('modules', []) as $i => $module) {
         try{
-            Tasks::runExternal("./modules/$module", 'unpublish', ...$event->flags());
+            Tasks::runExternal("./modules/$module", 'hub:unpublish', ...$event->flags());
         } catch (IOException $ex){
             Console::log(Colors::withColor('(info)','red')." The $module package does not exist.");
         }
@@ -178,7 +178,7 @@ function task_libgdxPublish(Event $event)
 {
     foreach ($event->package()->getAny('modules', []) as $i => $module) {
         try{
-            Tasks::runExternal("./modules/$module", 'publish', ...$event->flags());
+            Tasks::runExternal("./modules/$module", 'hub:publish', ...$event->flags());
         } catch (IOException $ex){
             Console::log(Colors::withColor('(info)','red')." The $module package does not exist.");
         }

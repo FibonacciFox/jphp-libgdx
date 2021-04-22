@@ -15,6 +15,6 @@ gdx:
 modules: #пакеты jppm libgdx для компиляуии
   - jphp-gdx-ext
   - jphp-gdx-backend-lwjgl-ext
-  - jphp-gdx-backend-android-ext
+ #- jphp-gdx-backend-android-ext
   - jphp-gdx-platform-natives-desktop-ext
 
