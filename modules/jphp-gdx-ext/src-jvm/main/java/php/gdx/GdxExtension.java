@@ -1,4 +1,6 @@
 package php.gdx;
+
+import php.gdx.graphics.GL20;
 import php.runtime.env.CompileScope;
 import php.runtime.ext.support.Extension;
 
@@ -17,8 +19,9 @@ public class GdxExtension extends Extension {
 
     @Override
     public void onRegister(CompileScope scope) {
-        registerClass(scope, ApplicationAdapter.class);
+        this.registerClass(scope, ApplicationAdapter.class);
+        this.registerClass(scope, Gdx.class);
+        this.registerClass(scope, GL20.class);
     }
-
 
 }

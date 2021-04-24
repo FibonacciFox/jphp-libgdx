@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96900890-202f-4bb4-8141-97168e900691" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/sdk/gdx/backends/lwjgl/UXLwjglApplicationConfiguration.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/sdk/gdx/backends/lwjgl/UXLwjglApplicationConfiguration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdk/gdx/Gdx.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdk/gdx/graphics/GL20.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-jvm/main/java/php/gdx/Gdx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src-jvm/main/java/php/gdx/graphics/GL20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/sdk/gdx/backends/lwjgl/UXLwjglApplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext/sdk/gdx/backends/lwjgl/UXLwjglApplication.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jphp-gdx-ext.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jphp-gdx-ext.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jars/x-jphp-gdx-ext-1.0.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jars/x-jphp-gdx-ext-1.0.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src-jvm/main/java/php/gdx/ApplicationAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src-jvm/main/java/php/gdx/ApplicationAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src-jvm/main/java/php/gdx/GdxExtension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src-jvm/main/java/php/gdx/GdxExtension.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +34,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1rOkoDGat2bhXHRuur0ofheV9Oa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -42,6 +70,21 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jphp-gdx-backend-lwjgl-ext" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -51,7 +94,9 @@
       <option name="presentableId" value="Default" />
       <updated>1618854696520</updated>
       <workItem from="1618854697950" duration="261000" />
-      <workItem from="1619122841355" duration="1765000" />
+      <workItem from="1619122841355" duration="3310000" />
+      <workItem from="1619169606947" duration="11257000" />
+      <workItem from="1619200797562" duration="34144000" />
     </task>
     <servers />
   </component>

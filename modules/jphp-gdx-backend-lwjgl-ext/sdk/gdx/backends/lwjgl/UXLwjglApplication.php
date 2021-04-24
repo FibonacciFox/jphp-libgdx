@@ -2,6 +2,8 @@
 
 namespace gdx\backends\lwjgl;
 
+use gdx\ApplicationAdapter;
+
 /**
  * Class UXLwjglApplication
  *
@@ -12,7 +14,7 @@ class UXLwjglApplication
     /**
      * UXLwjglApplication constructor.
      */
-    public function __construct()
+    public function __construct(ApplicationAdapter $adapter, UXLwjglApplicationConfiguration $configuration)
     {
 
     }

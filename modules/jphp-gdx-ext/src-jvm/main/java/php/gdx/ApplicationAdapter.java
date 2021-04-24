@@ -54,5 +54,4 @@ abstract public class ApplicationAdapter extends BaseObject implements Applicati
         invokeMethod("dispose");
     }
 
-
 }
