@@ -2,6 +2,9 @@ name: jphp-libgdx
 vestion: 1.0.0
 type: project
 
+plugins:
+  - Hub
+
 deps:
   jphp-core: '*'
   jphp-zend-ext: '*'

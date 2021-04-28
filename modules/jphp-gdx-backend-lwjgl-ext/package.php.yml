@@ -16,7 +16,6 @@ config:
     - /bundle/**
     - /docs/**
     - /build/**
-    - /package-lock.php.yml
     - /package.hub.yml
 gdx:
   version: 1.9.14

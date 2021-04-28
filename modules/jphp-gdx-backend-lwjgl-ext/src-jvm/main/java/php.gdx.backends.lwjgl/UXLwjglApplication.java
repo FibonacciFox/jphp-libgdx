@@ -3,7 +3,7 @@ package php.gdx.backends.lwjgl;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import php.gdx.ApplicationAdapter;
+import php.gdx.UXApplicationListener;
 import php.runtime.annotation.Reflection;
 import php.runtime.env.Environment;
 import php.runtime.lang.BaseWrapper;
@@ -22,7 +22,7 @@ public class UXLwjglApplication extends BaseWrapper<LwjglApplication> {
 
 
     @Reflection.Signature
-    public void __construct(ApplicationAdapter adapter, LwjglApplicationConfiguration config) {
-        __wrappedObject = new LwjglApplication(adapter, config);
+    public void __construct(UXApplicationListener listener, LwjglApplicationConfiguration config) {
+        __wrappedObject = new LwjglApplication(listener, config);
     }
 }
